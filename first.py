@@ -92,3 +92,5 @@ for x, y in validation_generator:
     plt.show()
     print(classes[0])
     break
+# 마지막 부분 설명 부족
+
